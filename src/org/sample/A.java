@@ -21,7 +21,7 @@ public static void main(String[] args) {
 	ArrayList<Integer>i=new ArrayList<Integer>();
 	i.add(10);
 	i.add(20);
-	//i.add(30);
+	i.add(300);
 	a.m4(i);
 	Map<String, String>m=new LinkedHashMap<String, String>();
 	m.put("name", "rahul");
